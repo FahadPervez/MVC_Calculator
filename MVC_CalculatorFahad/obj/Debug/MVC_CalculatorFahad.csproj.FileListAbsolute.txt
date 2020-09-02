@@ -1,0 +1,204 @@
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.csprojResolveAssemblyReference.cache
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\csc.exe
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\vbc.exe
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\VBCSCompiler.exe
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.dll.config
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.pdb
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Antlr3.Runtime.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.SqlServer.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Newtonsoft.Json.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Owin.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Helpers.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Mvc.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Optimization.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Razor.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Razor.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\WebGrease.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Helpers.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Mvc.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Optimization.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Razor.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Razor.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Antlr3.Runtime.pdb
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Newtonsoft.Json.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.SqlServer.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.dll
+C:\Users\fahad\Desktop\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.pdb
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\csc.exe
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\vbc.exe
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\VBCSCompiler.exe
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.dll.config
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.pdb
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Antlr3.Runtime.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.SqlServer.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Newtonsoft.Json.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Helpers.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Mvc.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Optimization.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Razor.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Razor.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\WebGrease.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Helpers.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Mvc.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Optimization.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Razor.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Razor.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Antlr3.Runtime.pdb
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Newtonsoft.Json.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.SqlServer.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.dll
+C:\Users\fahad\Downloads\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.pdb
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\csc.exe
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\System.Collections.Immutable.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\System.Reflection.Metadata.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\vbc.exe
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\VBCSCompiler.exe
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\roslyn\VBCSCompiler.exe.config
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.dll.config
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\MVC_CalculatorFahad.pdb
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Antlr3.Runtime.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.SqlServer.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Google.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Web.Infrastructure.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Newtonsoft.Json.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Helpers.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Mvc.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Optimization.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Razor.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Deployment.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Razor.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\WebGrease.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Helpers.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Mvc.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Optimization.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.Razor.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Deployment.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\System.Web.WebPages.Razor.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Antlr3.Runtime.pdb
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Newtonsoft.Json.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\EntityFramework.SqlServer.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Google.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.csprojResolveAssemblyReference.cache
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.dll
+E:\Software Engineering Practices\MVC_CalculatorFahad\MVC_CalculatorFahad\MVC_CalculatorFahad\obj\Debug\MVC_CalculatorFahad.pdb

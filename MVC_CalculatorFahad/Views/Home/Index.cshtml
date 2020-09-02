@@ -1,0 +1,75 @@
+﻿@model MVC_CalculatorFahad.Models.Calculator
+
+@{
+    ViewBag.Title = "Calculator";
+}
+
+@using (Html.BeginForm("Index", "Home", new { }, FormMethod.Post, new { @class = "", id = "createForm" }))
+{
+    <div class="jumbotron">
+        <div class="container text-center">
+            <div class="calcBG col-md-4 col-md-offset-4 text-center">
+                
+               
+                <div class="row">
+                        @if (!string.IsNullOrEmpty(Model.Result))
+                        {
+                            <label id="results"><smal> @Model.Result </smal> </label>
+                        }
+
+                 </div>
+                <div class="row">
+                  
+
+                        @Html.EditorFor(model => model.TextValue, new { @class = "screen text-right form-control" })
+                        @*<span class="input-group-addon">
+                           @if (!string.IsNullOrEmpty(Model.result))
+                           {
+                             <smal> @Model.result </smal>
+                           }                        
+                        </span>*@
+
+                  
+                </div>
+                <div class="row">
+                    <button type="button" id="b7" value="7" class="btn btn-info">7</button>
+                    <button type="button" id="b8" value="8" class="btn btn-info">8</button>
+                    <button type="button" id="b9" value="9" class="btn btn-info">9</button>
+                    <button type="button" id="div" value="/" class="btn btn-info">/</button>
+
+                </div>
+                <div class="row">
+                    <button type="button" id="b4" value="4" class="btn btn-info">4</button>
+                    <button type="button" id="b5" value="5" class="btn btn-info">5</button>
+                    <button type="button" id="b6" value="6" class="btn btn-info">6</button>
+                    <button type="button" id="multy" value="*" class="btn btn-info">*</button>
+
+                </div>
+                <div class="row">
+                    <button type="button" id="b1" value="1" class="btn btn-info">1</button>
+                    <button type="button" id="b2" value="2" class="btn btn-info">2</button>
+                    <button type="button" id="b3" value="3" class="btn btn-info">3</button>
+                    <button type="button" id="sub" value="-" class="btn btn-info">-</button>
+
+                </div>
+                <div class="row">
+                    <button type="button" id="b0" value="0" class="btn btn-info">0</button>
+                    <button type="button" id="dot" value="." class="btn btn-info">.</button>
+                    <button type="button" id="add" value="+" class="btn btn-info">+</button>
+                    <button type="submit" id="eq" value="-" class="btn btn-info">=</button>
+                </div>
+                <div class="row">
+                    <button type="button" id="ce" value="CE" class="btn btn-info">CE</button>
+                    <button type="button" id="ceall" value="CLR" class="btn btn-danger">CLR</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <h1>@Model.Error</h1>
+    </div>
+}
+
+<script src="~/Scripts/Calculator/Calculator.js"></script>
